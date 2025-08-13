@@ -12,7 +12,7 @@
 * 25.07.21 ~ 25.08.
 
 ## ⚙️ 개발 환경
-- 언어 : JSX / SCSS / JS
+- 언어 : JSX / SCSS / TS
 - 프레임워크 : Next.js
 - 라이브러리 : React
 - 도구 : VS Code / Git
