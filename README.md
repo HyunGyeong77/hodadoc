@@ -27,16 +27,16 @@
   * 마우스 오버 & 클릭 애니메이션
 
 ## 🖥️ 화면 구성
-### 메인 페이지
+### [메인 페이지]
 ![메인 페이지](https://hyungyeong77.github.io/hodadoc/images/mainPage.png)
-
-### 추천 병원 페이지
+<br><br><br>
+### [추천 병원 페이지]
 ![추천 병원 페이지](https://hyungyeong77.github.io/hodadoc/images/suggestPage.png)
-
-### 의료 뉴스 페이지
+<br><br><br>
+### [의료 뉴스 페이지]
 ![의료 뉴스 페이지](https://hyungyeong77.github.io/hodadoc/images/medicalnewsPage.png)
-
-### 고객 지원 페이지
+<br><br><br>
+### [고객 지원 페이지]
 ![고객 지원 페이지](https://hyungyeong77.github.io/hodadoc/images/supportPage.png)
 
 
