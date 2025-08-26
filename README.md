@@ -29,9 +29,16 @@
 ## 🖥️ 화면 구성
 ### 메인 페이지
 ![메인 페이지](https://hyungyeong77.github.io/hodadoc/images/pages/mainPage.png)
+
+### 추천 병원 페이지
 ![추천 병원 페이지](https://hyungyeong77.github.io/hodadoc/images/pages/suggestPage.png)
+
+### 의료 뉴스 페이지
 ![의료 뉴스 페이지](https://hyungyeong77.github.io/hodadoc/images/pages/medicalnewsPage.png)
+
+### 고객 지원 페이지
 ![고객 지원 페이지](https://hyungyeong77.github.io/hodadoc/images/pages/supportPage.png)
+
 
 ## 개발 과정에서 학습한 내용
 - Canvas를 이용한 이미지 변환 학습
