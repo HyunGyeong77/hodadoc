@@ -28,16 +28,16 @@
 
 ## 🖥️ 화면 구성
 ### 메인 페이지
-![메인 페이지](https://hyungyeong77.github.io/hodadoc/images/pages/mainPage.png)
+![메인 페이지](https://hyungyeong77.github.io/hodadoc/images/pages/main-page.png)
 
 ### 추천 병원 페이지
-![추천 병원 페이지](https://hyungyeong77.github.io/hodadoc/images/pages/suggestPage.png)
+![추천 병원 페이지](https://hyungyeong77.github.io/hodadoc/images/pages/suggest-page.png)
 
 ### 의료 뉴스 페이지
-![의료 뉴스 페이지](https://hyungyeong77.github.io/hodadoc/images/pages/medicalnewsPage.png)
+![의료 뉴스 페이지](https://hyungyeong77.github.io/hodadoc/images/pages/medicalnews-page.png)
 
 ### 고객 지원 페이지
-![고객 지원 페이지](https://hyungyeong77.github.io/hodadoc/images/pages/supportPage.png)
+![고객 지원 페이지](https://hyungyeong77.github.io/hodadoc/images/pages/support-page.png)
 
 
 ## 개발 과정에서 학습한 내용
